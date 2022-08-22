@@ -1,3 +1,3 @@
 # tailwindcss_onepage
-homepage
-# Thanks to youtuber:  Traversy Media
+## based on modern css library: Tailwind.  
+## Thanks to youtuber:  Traversy Media
